@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a59d98-fbb1-4e51-92e4-200760b83791" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/playwright_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insta_buddy/archive_code_blocks_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insta_buddy/features/functions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insta_buddy/features/misc.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insta_buddy/utilities/constants.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/insta_buddy/utilities/support_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_complete_api_testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_custom_fixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_multiple_feature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_recording_tracing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_upload_and_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_working_with_frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_working_with_pages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/generate_fake_user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/insta_buddy" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
